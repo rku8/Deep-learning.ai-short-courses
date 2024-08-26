@@ -37,26 +37,26 @@ The words that often most used with human.
 
 E.g. 
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3411ec26-2014-48e0-a130-96ece65638da/71a4b700-93f9-4b1b-8063-f355ab74b718/4b1fd152-1103-4e66-9bdf-2c5c78583329.png)
+![image.png](imgs\image.png)
 
 Some of the words that are not much used like ‘Prompting’
 
 E.g. 
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3411ec26-2014-48e0-a130-96ece65638da/f396e769-a08b-4b9b-b56d-1e6da981cb8a/image.png)
+![image.png](imgs\image_1.png)
 
 Here, the single word ‘Prompting’ contains 3 tokens.
 
 Suppose I have the word `lollipop` and I want to reverse this, then the LLM might look this word as
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3411ec26-2014-48e0-a130-96ece65638da/9e715865-70cd-4203-8c7e-1eb9964021bc/image.png)
+![image.png](imgs\image_2.png)
 
 > ChatGPT is not see individual letters, it sees three tokens. So it is hard to respond this word into correct reverse order.
 > 
 
 To overcome such problems, we can use `l-o-l-l-i-p-o-p` then it reverse this and prints.
 
-![each letter is token](https://prod-files-secure.s3.us-west-2.amazonaws.com/3411ec26-2014-48e0-a130-96ece65638da/44d181c6-5f96-45a0-a843-b10cceac8fe5/image.png)
+![each letter is token](imgs\image_3.png)
 
 each letter is token
 
