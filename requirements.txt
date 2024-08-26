@@ -1,0 +1,5 @@
+ipykernel
+jupyter
+
+# Building systems with chatGPT API
+groq 
