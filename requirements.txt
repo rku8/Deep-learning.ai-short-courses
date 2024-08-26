@@ -1,5 +1,7 @@
 ipykernel
 jupyter
+python-dotenv
 
 # Building systems with chatGPT API
 groq 
+openai
